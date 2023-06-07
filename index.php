@@ -1,88 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
 
-<head>
-    <meta charset="utf-8">
-    <meta content="width=device-width, initial-scale=1.0" name="viewport">
-
-    <title>Waystudio - Home</title>
-    <meta content="" name="description">
-    <meta content="" name="keywords">
-
-    <!-- Favicons -->
-    <!-- <link href="assets/img/favicon.png" rel="icon"> -->
-    <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
-
-    <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Jost:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
-
-    <!-- Vendor CSS Files -->
-    <link href="assets/vendor/aos/aos.css" rel="stylesheet">
-    <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
-    <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
-    <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
-    <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
-    <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
-
-    <!-- Template Main CSS File -->
-    <link href="assets/css/style.css" rel="stylesheet">
-
-    <!-- =======================================================
-  * Template Name: Arsha
-  * Updated: Mar 10 2023 with Bootstrap v5.2.3
-  * Template URL: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
-</head>
-
-<body>
-
-    <!-- ======= Header ======= -->
-    <header id="header" class="fixed-top ">
-        <div class="container d-flex align-items-center">
-
-            <h1 class="logo me-auto"><a href="index.html">WayStudio</a></h1>
-            <!-- Uncomment below if you prefer to use an image logo -->
-            <!-- <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
-
-            <nav id="navbar" class="navbar">
-                <ul>
-                    <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
-                    <li><a class="nav-link scrollto" href="#about">About</a></li>
-                    <li><a class="nav-link scrollto" href="#services">Services</a></li>
-                    <!-- <li><a class="nav-link   scrollto" href="#portfolio">Portfolio</a></li> -->
-                    <!-- <li><a class="nav-link scrollto" href="#team">Team</a></li> -->
-                    <!-- <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
-                        <ul>
-                            <li><a href="#">Drop Down 1</a></li>
-                            <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-right"></i></a>
-                                <ul>
-                                    <li><a href="#">Deep Drop Down 1</a></li>
-                                    <li><a href="#">Deep Drop Down 2</a></li>
-                                    <li><a href="#">Deep Drop Down 3</a></li>
-                                    <li><a href="#">Deep Drop Down 4</a></li>
-                                    <li><a href="#">Deep Drop Down 5</a></li>
-                                </ul>
-                            </li>
-                            <li><a href="#">Drop Down 2</a></li>
-                            <li><a href="#">Drop Down 3</a></li>
-                            <li><a href="#">Drop Down 4</a></li>
-                        </ul>
-                    </li> -->
-                    <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
-                    <li><a class="nav-link scrollto" href="#docut">Document</a></li>
-                    <li><a class="getstarted scrollto" href="#about">Get Started</a></li>
-                </ul>
-                <i class="bi bi-list mobile-nav-toggle"></i>
-            </nav>
-            <!-- .navbar -->
-
-        </div>
-    </header>
     <!-- End Header -->
-
+    <?php include "assets/inc/header.php";?>
     <!-- ======= Hero Section ======= -->
     <section id="hero" class="d-flex align-items-center">
 
@@ -90,7 +8,7 @@
             <div class="row">
                 <div class="col-lg-6 d-flex flex-column justify-content-center pt-4 pt-lg-0 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="200">
                     <h1>Better Solutions For Your Business</h1>
-                    <h2>We are team of talented designers making USSD accessible to all</h2>
+                    <h2>We are a team of skilled designers harnessing the power of accessible technologies to create exceptional solutions.</h2>
                     <div class="d-flex justify-content-center justify-content-lg-start">
                         <a href="#about" class="btn-get-started scrollto">Get Started</a>
                         <a href="https://www.youtube.com/waystudio" class="glightbox btn-watch-video"><i class="bi bi-play-circle"></i><span>Watch Video</span></a>
@@ -154,8 +72,7 @@
                 <div class="row content">
                     <div class="col-lg-6">
                         <p>
-                            Welcome to WayStudio USSD Services, the leading provider of USSD application building services for clients across the country. Our mission is to empower businesses and organizations with cutting-edge USSD applications that help them connect with customers
-                            and stakeholders more effectively
+                        Welcome to WayStudio, your trusted destination for website development, application building, and STEM training services. We are dedicated to providing innovative solutions that enable businesses and organizations to thrive in the digital world.
                         </p>
                         <ul>
                             <li><i class="ri-check-double-line"></i> Expertise and commitment </li>
@@ -165,11 +82,9 @@
                     </div>
                     <div class="col-lg-6 pt-4 pt-lg-0">
                         <p>
-                            At WayStudio USSD Services, we offer a wide range of services, including USSD application building, deployment, and maintenance. We use the latest technologies and best practices to deliver high-quality applications that meet the unique needs of our clients.
-                            Whether you're a small business or a large organization, we have the expertise and experience to help you achieve your goals.
+                        At WayStudio, your success is our utmost priority. Our dedicated team is fueled by a passion for enabling business growth, developing exceptional applications, and nurturing a passion for STEM education. By partnering with us, you can unlock your full potential in the ever-evolving digital landscape. Together, we'll embark on a journey to achieve remarkable results and pave the way for your continued success.
                         </p><b>
-
-                          we believe in putting our values into action. We are committed to customer satisfaction, innovation, and sustainability. Our values guide our operations and help us deliver outstanding results for our clients.
+                        At our core, we are driven by the principles we hold dear. Customer satisfaction, innovation, and sustainability are not just ideals for us – they are the driving force behind everything we do. We are unwavering in our commitment to these values, ensuring that they shape our operations and enable us to consistently deliver exceptional outcomes for our valued clients.
                         </b>
                         <!-- <a href="#" class="btn-learn-more">Learn More</a> -->
                     </div>
@@ -190,7 +105,7 @@
                         <div class="content">
                             <h3> Powerful technologies <strong>providing access information</strong></h3>
                             <p>
-                                USSD technology is a powerful tool for providing access to information and services through mobile devices. It is a widely used technology that is accessible to a wide range of users, and it offers many benefits in terms of speed, efficiency, and cost-effectiveness.
+                          We believe in the transformative power of technology and its ability to empower businesses, organizations, and individuals. 
                             </p>
                         </div>
 
@@ -251,8 +166,7 @@
                     <div class="col-lg-6 pt-4 pt-lg-0 content" data-aos="fade-left" data-aos-delay="100">
                         <h3> How we operates </h3>
                         <p class="fst-italic">
-                            We operates by providing end-to-end USSD application building and management services to clients.We work closely with clients to understand their needs and requirements, develop customized solutions, and deploy and maintain the application to ensure it
-                            is accessible and effective for users.
+                        we specialize in providing comprehensive end-to-end solutions and management services to our clients. Our approach is centered around close collaboration with our clients, enabling us to gain a deep understanding of their needs and requirements. By doing so, we can develop customized solutions that precisely cater to their unique challenges.
                         </p>
 
                         <div class="skills-content">
@@ -751,105 +665,7 @@
 
     </main>
     <!-- End #main -->
+    <?php include "assets/inc/footer.php";?>
 
     <!-- ======= Footer ======= -->
-    <footer id="footer">
-
-        <div class="footer-newsletter">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-lg-6">
-                        <h4>Join Our Newsletter</h4>
-                        <p>you will typically receive periodic emails with updates and information related to products or services.</p>
-                        <form action="" method="post">
-                            <input type="email" name="email"><input type="submit" value="Subscribe">
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="footer-top">
-            <div class="container">
-                <div class="row">
-
-                    <div class="col-lg-3 col-md-6 footer-contact">
-                        <h3>WayStudio</h3>
-                        <p>
-                            A408 Adum Street <br> C12, GT-021-025-01<br> Tema <br><br>
-                            <strong>Phone:</strong> +233 266 212 420<br>
-                            <strong>Email:</strong> info@Waystudio.com<br>
-                        </p>
-                    </div>
-
-                    <div class="col-lg-3 col-md-6 footer-links">
-                        <h4>Useful Links</h4>
-                        <ul>
-                            <li><i class="bx bx-chevron-right"></i> <a href="index.html">Home</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#about">About us</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#services">Services</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
-                        </ul>
-                    </div>
-
-                    <div class="col-lg-3 col-md-6 footer-links">
-                        <h4>Our Services</h4>
-                        <ul>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Customer USSD application</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design & Development</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Product Management</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
-                        </ul>
-                    </div>
-
-                    <div class="col-lg-3 col-md-6 footer-links">
-                        <h4>Our Social Networks</h4>
-                        <p>You may also find links to OUR social media pages </p>
-                        <div class="social-links mt-3">
-                            <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-                            <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-                            <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-                            <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-                            <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-
-        <div class="container footer-bottom clearfix">
-            <div class="copyright">
-                &copy; Copyright <strong><span>WayStudio</span></strong>. All Rights Reserved
-            </div>
-            <div class="credits">
-                <!-- All the links in the footer should remain intact. -->
-                <!-- You can delete the links only if you purchased the pro version. -->
-                <!-- Licensing information: https://bootstrapmade.com/license/ -->
-                <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/ -->
-                Designed by <a href="https://www.linkedin.com/in/yao-adzikah">WayStudio</a>
-            </div>
-        </div>
-    </footer>
-    <!-- End Footer -->
-
-    <div id="preloader"></div>
-    <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
-
-    <!-- Vendor JS Files -->
-    <script src="assets/vendor/aos/aos.js"></script>
-    <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-    <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
-    <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-    <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
-    <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
-    <script src="assets/vendor/php-email-form/validate.js"></script>
-
-    <!-- Template Main JS File -->
-    <script src="assets/js/main.js"></script>
-
-</body>
-
-</html>
+    
